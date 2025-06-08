@@ -5,13 +5,12 @@ const Banner = () => {
     <div className="relative h-[350px] w-full  px-4 md:h-[605px] md:px-6 lg:px-8 xl:px-10 2xl:px-0">
       <div className="flex h-full w-full flex-col items-center justify-center">
         <a
-          href="https://togetherai.link"
+          href="https://aidabot.club"
           target="_blank"
           rel="noreferrer"
           className="mb-5 cursor-pointer rounded-2xl border border-black px-4 py-1 text-sm text-slate-600 transition duration-300 ease-in-out hover:text-slate-700 sm:text-base"
         >
-          Powered by <span className="font-bold">Together.ai </span>and{' '}
-          <span className="font-bold">Convex</span>
+          Powered by <span className="font-bold">AIDA AI</span>
         </a>
         <h1 className="inline-block text-center text-4xl font-medium tracking-tighter text-dark lg:text-7xl">
           AI-Powered Voice <br className="hidden lg:inline-block" />
